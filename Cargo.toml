@@ -1,0 +1,12 @@
+[package]
+name = "inin"
+version = "0.1.0"
+authors = ["Amir Hossein Abdolkhalegh (amirhosseinab) <amirhosseinab@outlook.com>"]
+edition = "2018"
+description = "It is a library written in Rust to parse and validate the Iranian national ID number"
+license = "MIT"
+readme = "README.me"
+repository = "https://github.com/amirhosseinab/inin.git"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
